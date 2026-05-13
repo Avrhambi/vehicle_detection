@@ -1,14 +1,8 @@
-
-
-https://github.com/user-attachments/assets/9445622e-93b9-4e14-81b4-de7358465f22
-
-
-
 # Vehicle Detection
 
 ## Demo
 
-[![Demo Video](demo_thumbnail.jpg)](https://github.com/Avrhambi/vehicle_detection/releases/download/v1.0/clip_1_result_8s.mp4)
+https://github.com/user-attachments/assets/9445622e-93b9-4e14-81b4-de7358465f22
 
 Detects the **Closest Point of Approach (CPA)** for each vehicle in a traffic video — the exact frame and timestamp where every tracked vehicle was nearest to the camera.
 
