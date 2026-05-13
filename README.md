@@ -1,4 +1,4 @@
-# Vehicle Proximity Analysis
+# Vehicle Detection
 
 ## Demo
 
@@ -25,7 +25,7 @@ track_id → { max_y, cpa_location, best_frame, best_timestamp, best_bbox }
 ## Project Structure
 
 ```
-vehicle_proximity/
+vehicle_detection/
 ├── main.py          # Full implementation (VideoProcessor + ProximityTracker + BBoxSmoother)
 ├── bytetrack.yaml   # ByteTrack tracker configuration
 ├── spec.md          # Architecture specification

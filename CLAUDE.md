@@ -1,4 +1,4 @@
-# Vehicle Proximity CPA — Project Context
+# Vehicle Detection — Project Context
 
 ## What This Does
 Processes a top-down traffic video with YOLO v8s + ByteTrack to track vehicles and
