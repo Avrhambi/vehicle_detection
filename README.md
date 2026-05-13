@@ -1,7 +1,6 @@
 
 
-https://github.com/user-attachments/assets/9445622e-93b9-4e14-81b4-de7358465f22
-
+https://github.com/Avrhambi/vehicle_detection/blob/master/clip_1_result_8s.mp4
 
 
 # Vehicle Detection
